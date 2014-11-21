@@ -14,6 +14,7 @@
 ./AdbWinApi.dll https://github.com/baohaojun/T1Wrench/raw/test/AdbWinApi.dll 47a6ee3f186b2c2f5057028906bac0c6
 ./AdbWinUsbApi.dll https://github.com/baohaojun/T1Wrench/raw/test/AdbWinUsbApi.dll 5f23f2f936bdfac90bb0a4970ad365cf
 ./config.png https://github.com/baohaojun/T1Wrench/raw/test/config.png 7c9cee045fadfdcd6e207e5c30c1cba6
+./download https://github.com/baohaojun/T1Wrench/raw/master/download/download 55414e37c78fc30b9628b6e7adc3408e
 ./emacs-weixin.sh https://github.com/baohaojun/T1Wrench/raw/test/emacs-weixin.sh f2690dad699d32612904bc922e5325f8
 ./icudt52.dll https://github.com/baohaojun/T1Wrench/raw/test/icudt52.dll 88e60109c9748ca555a692ef4bcd5f9d
 ./icuin52.dll https://github.com/baohaojun/T1Wrench/raw/test/icuin52.dll 88e8d33c6acc4c839bacccf87d4ac85f
@@ -35,8 +36,9 @@
 ./setclip.apk.md5 https://github.com/baohaojun/T1Wrench/raw/test/setclip.apk.md5 eb48962a0d25dcbcfd9a6b3244b6eb1f
 ./T1Wrench.exe https://github.com/baohaojun/T1Wrench/raw/test/T1Wrench.exe 78df20cd5eab2a90c6d7c4b5550436e5
 ./t1wrench.lua https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.lua 55fa2dffb0ad785284c8b95247f5be2a
-./t1wrench.md5 https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.md5 c811af896b53bac6be82312b3ccf94af
+./t1wrench.md5 https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.md5 9b47eeb466607a4334fed0cff8773ff6
 ./the-true-adb.exe https://github.com/baohaojun/T1Wrench/raw/test/the-true-adb.exe 81d188a849c8768e8f3694eb1c0e6086
-./update-md5s.sh https://github.com/baohaojun/T1Wrench/raw/test/update-md5s.sh 3e8ade77b4278c0dee5f5a1b2d573bed
-./update-t1wrench.lua https://github.com/baohaojun/T1Wrench/raw/master/windows/binaries/update-t1wrench.lua 4d66f560eea671667cb8e2f2e2278f63
-t1wrench https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.md5 52a697d9b17dc69da693efd1c456c2eb
+./update-md5s.sh https://github.com/baohaojun/T1Wrench/raw/test/update-md5s.sh f5b78ac553c933f2263717bbcee15722
+./update-myself.lua https://github.com/baohaojun/T1Wrench/raw/master/windows/binaries/update-myself.lua 95788316103f6ac70f23277437633051
+./update-t1wrench.lua https://github.com/baohaojun/T1Wrench/raw/master/windows/binaries/update-t1wrench.lua
+t1wrench https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.md5 135fc1aef661b2d4f10b9665b90343e5
