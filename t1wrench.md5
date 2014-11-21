@@ -38,5 +38,5 @@
 ./t1wrench.lua https://github.com/baohaojun/T1Wrench/raw/master/t1wrench.lua e8ad81845dd759febddd51a0642dc330
 ./the-true-adb.exe https://github.com/baohaojun/T1Wrench/raw/test/the-true-adb.exe 81d188a849c8768e8f3694eb1c0e6086
 ./update-md5s.sh https://github.com/baohaojun/T1Wrench/raw/test/update-md5s.sh 2122ac367dbbe53da1c2db37de8b722d
-./update-myself.lua https://github.com/baohaojun/T1Wrench/raw/master/windows/binaries/update-myself.lua 67d314464e99078146d964e04932c747
-myself https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.md5 46ba89172db1acc2a0a60a910564fd60
+./update-myself.lua https://github.com/baohaojun/T1Wrench/raw/master/windows/binaries/update-myself.lua 564222104af95523f236de7206ee8812
+myself https://github.com/baohaojun/T1Wrench/raw/test/t1wrench.md5 91a8864543eef101b32b9700e1def451
