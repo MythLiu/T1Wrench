@@ -7,6 +7,6 @@ find $(relative-path $(dirname $(lookup-file -e .git)) .) -type f -o -type l | s
         md5=$(md5sum $x|pn 1);
         url=$(git-info-clip $x);
         echo $x $url $md5;
-    done' true |grep -v -P '^t1wrench.md5 ' | tee t1wrench.md5
+    done' true |grep -v -P '^\./t1wrench.md5 ' | tee t1wrench.md5
 my_md5=$(md5sum t1wrench.md5 | pn 1)
 echo t1wrench $(git-info-clip t1wrench.md5) $my_md5 >> t1wrench.md5
